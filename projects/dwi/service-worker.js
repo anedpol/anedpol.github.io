@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projects/dwi/precache-manifest.284029703c5c025a2c7e25b166e8f605.js"
+  "/projects/dwi/precache-manifest.1178cc7d60e75d9db3b02c983ca43447.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dwi"});
